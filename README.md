@@ -87,7 +87,7 @@ By leveraging predictive modeling, we can encourage informed decision-making and
 To run this project locally:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/athirasuresh/bank-marketing-prediction.git
+   [git clone https://github.com/athirasuresh/bank-marketing-prediction.git](https://github.com/athirasuresh338/ML_Bank_Marketing_Campaign_Success_Prediction.git)
    ```
 2. Install dependencies:  
    ```bash
