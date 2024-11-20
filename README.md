@@ -18,9 +18,6 @@ The goal of this project is to develop a predictive model that helps financial i
 7. [Results and Insights](#results-and-insights)
 8. [Conclusion](#conclusion)
 9. [Installation](#installation)
-10. [Usage](#usage)
-11. [Contributing](#contributing)
-12. [License](#license)
 
 ---
 
