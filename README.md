@@ -1,5 +1,3 @@
----
-
 # Bank Marketing Campaign Success Prediction 🚀
 
 This repository showcases a **machine learning project** designed to predict the success of bank marketing campaigns using a **Random Forest Classifier**. The project stems from a pressing issue highlighted by the Ministry of Statistics: the decline in India's household savings rate. By leveraging machine learning, this project seeks to provide actionable insights for financial institutions to optimize their marketing strategies and encourage savings.
