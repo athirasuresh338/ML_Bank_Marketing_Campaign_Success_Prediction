@@ -1,0 +1,9 @@
+Model,Accuracy
+KNeighborsClassifier(),86.61
+SVC(),85.83
+GaussianNB(),66.71
+DecisionTreeClassifier(),88.09
+RandomForestClassifier(),92.06
+AdaBoostClassifier(),86.66
+GradientBoostingClassifier(),87.73
+XGBClassifier(),91.51
